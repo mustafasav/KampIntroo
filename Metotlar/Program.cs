@@ -30,7 +30,6 @@ namespace Metotlar
             Console.WriteLine("------Metotlar--------");
 
             //encapsulation 
-
             SepetManager sepetManager = new SepetManager(); //class tan instance - örnek oluşturma
             sepetManager.Ekle(urun1);
             sepetManager.Ekle(urun2);

@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{0AE5D79C-9D16-472A-8550-D6F30813A90F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{BD5823EE-CEB2-4800-96B2-9E2B670FEC12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{BD5823EE-CEB2-4800-96B2-9E2B670FEC12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{B821D6CE-928B-4C14-8D70-5E99A6E227EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{B821D6CE-928B-4C14-8D70-5E99A6E227EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{C657B987-6066-4B54-B1F7-15ED88E23DE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B821D6CE-928B-4C14-8D70-5E99A6E227EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B821D6CE-928B-4C14-8D70-5E99A6E227EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B821D6CE-928B-4C14-8D70-5E99A6E227EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C657B987-6066-4B54-B1F7-15ED88E23DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C657B987-6066-4B54-B1F7-15ED88E23DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C657B987-6066-4B54-B1F7-15ED88E23DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C657B987-6066-4B54-B1F7-15ED88E23DE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
