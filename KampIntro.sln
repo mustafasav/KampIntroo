@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\Kamp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oop2", "Oop2\Oop2.csproj", "{B30267C8-B3EC-4249-BD4B-244F46ADECC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{B7687EC4-4420-4F9E-8877-1DE902178514}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{B7687EC4-4420-4F9E-8877-1DE902178514}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{0AE5D79C-9D16-472A-8550-D6F30813A90F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{0AE5D79C-9D16-472A-8550-D6F30813A90F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{BD5823EE-CEB2-4800-96B2-9E2B670FEC12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{B821D6CE-928B-4C14-8D70-5E99A6E227EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{0AE5D79C-9D16-472A-8550-D6F30813A90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE5D79C-9D16-472A-8550-D6F30813A90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE5D79C-9D16-472A-8550-D6F30813A90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5823EE-CEB2-4800-96B2-9E2B670FEC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5823EE-CEB2-4800-96B2-9E2B670FEC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5823EE-CEB2-4800-96B2-9E2B670FEC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5823EE-CEB2-4800-96B2-9E2B670FEC12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B821D6CE-928B-4C14-8D70-5E99A6E227EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B821D6CE-928B-4C14-8D70-5E99A6E227EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B821D6CE-928B-4C14-8D70-5E99A6E227EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B821D6CE-928B-4C14-8D70-5E99A6E227EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
