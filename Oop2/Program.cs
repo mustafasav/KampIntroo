@@ -34,7 +34,7 @@ namespace Oop2
             CustomerManager musteriManager = new CustomerManager();
             musteriManager.Ekle(musteri1);
             musteriManager.Ekle(musteri2);
-            mus
+            
 
         }
     }
